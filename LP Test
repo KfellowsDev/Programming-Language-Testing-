@@ -1,0 +1,18 @@
+portugol
+programa 
+ { 
+   { 
+     funcao inicio
+     cadeia nome
+     inteiro idade
+      escreva ("qual é o seu nome? ")
+      leia (nome)
+      escreva ("qual é a sua idade?)
+      leia (idade)
+       escreva ("seu nome é , "cadeia" e sua idade é "idade")
+
+***python***
+
+nome = input("qual é o seu nome? ") 
+idade = int(input("qual sua idade? "))
+ 
